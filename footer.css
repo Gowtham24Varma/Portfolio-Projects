@@ -1,0 +1,77 @@
+footer{
+    position:-webkit-sticky;
+}
+
+.bg-image{
+    background-color: tomato    ;
+    height:300px;
+}
+.company-name{
+    color: white;
+    font-size: 35px;
+    font-weight: 500;
+    margin-left: 50px;
+    margin-top: -30px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.subname{
+    font-size: 15px;
+    margin-left: 160px;
+    margin-top: 10px;
+}
+
+/* Links */
+.quick-link{
+    margin-left: 85vh;
+    margin-top: -45px;
+    color: white;
+    font-size: 25px;
+}
+.links{
+    margin-left:90vh ;
+    color: white;
+    margin-top: 30px;
+}
+.contsact-us{
+    color: white;
+    font-size: 25px;
+    margin-left:145vh;
+    margin-top: -35vh;
+}
+/* icons */
+.mapicon{
+    margin-left: 140vh;
+    color: white;
+    margin-top: 7px;
+    font-size: 20px;
+}
+.phicon{
+    margin-left: 140vh;
+    margin-top: 21px;
+    color: white;
+    font-size: 20px;
+}
+.mailicon{
+    margin-left: 140vh;
+    color: white;
+    margin-top: 18px;
+    font-size: 25px;
+}
+.location{
+    margin-left: 145vh;
+    color: white;
+    margin-top: -23px;
+}
+.phno{
+    margin-left: 145vh;
+    color: white;
+    margin-top: -23px;
+}
+.mailid{
+    margin-left: 145vh;
+    color: white;
+    margin-top: -30px;
+}
+.links:hover{
+    cursor: pointer;
+}

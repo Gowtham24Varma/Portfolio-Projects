@@ -1,0 +1,58 @@
+.priya{
+    line-height: 35px;
+    font-weight: 500;
+    font-style: oblique;
+  }
+  .priya-button{
+    background-color: tomato;
+    margin-left: 1200px;
+    margin-top: 80px;
+  }
+  .ajay-button{
+    background-color: tomato;
+    margin-left: 1200px;
+    margin-top: 80px;
+  }
+.abhilash-button{
+    background-color: tomato;
+    margin-left: 1200px;
+    margin-top: 80px;
+    color: white;
+}
+.akhila-button{
+    background-color: tomato;
+    margin-left: 1200px;
+    margin-top: 80px;
+    color: white;
+}
+.kavya-button{
+    background-color: tomato;
+    margin-left: 1200px;
+    margin-top: 80px;
+    color: white;
+}
+.Roja-button{
+    background-color: tomato;
+    margin-left: 1200px;
+    margin-top: 80px;
+    color: white;   
+}
+.manoj-button{
+    background-color: tomato;
+    margin-left: 1200px;
+    margin-top: 80px;
+    color: white;   
+}
+.pavan-button{
+    background-color: tomato;
+    margin-left: 1200px;
+    margin-top: 80px;
+    color: white;   
+}
+/* inner cards */
+.inner-card{
+    margin-left: 550px;
+    border-radius: 10px;
+    border-style: groove;
+    margin-top: 10px;
+}

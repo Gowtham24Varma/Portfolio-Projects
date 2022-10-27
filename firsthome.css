@@ -1,0 +1,109 @@
+.lovesymbol{
+    color: #ff002b;
+    margin-top:-10px ;
+}
+.loveface{
+    color: #dd0426;
+}
+.img9{
+    margin-left: 100px;
+    border-radius: 10px;
+}
+.testimonals{
+    text-align: center;
+    font-size: 35px;
+    font-weight: 500;
+    color: black;
+    
+}
+.quote1{
+    margin-left: 500px;
+    /* color: white; */
+    font-size: 35px;
+    margin-top:-210px ;
+    
+}
+.quote2{
+   /* color: white; */
+   margin-left: 150vh;
+   margin-top: 20px;
+   font-size: 20px;
+}
+.quote3{
+    /* color: white; */
+    font-size: 35px;
+    margin-left: 100px;
+    margin-top: -230px;
+}
+.quote4{
+    /* color: white; */
+    font-size: 20px;
+    margin-left: 450px;
+}
+.quote5{
+    /* color: white; */
+    font-size: 35px;
+    margin-left: 80vh;
+    margin-top: -225px;
+}
+.quote6{
+    /* color:white; */
+    font-size: 20px;
+    margin-left: 120vh;
+}
+.quote7{
+    font-size: 50px;
+    margin-top: 180px;
+    margin-left: 150px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.soul{
+  color: #dd0426;
+}
+.img10{
+    margin-left: 140vh;
+    font-size: 35px;
+    margin-top: 210px;
+    border-radius: 10px;
+}
+.img11{
+    margin-left: 100px;
+    margin-top: 250px;
+    border-radius: 10px;
+}
+.ekrishta{
+    color: tomato;
+}
+.love{
+    color: tomato;
+}
+.ekrishta-tag{
+    background-color: #ffe6a7;
+    height: 60vh;
+    font-size: 150px;
+    border-bottom-style: double;
+}
+.ekrishta-tag2{
+    font-size: 45px;
+    margin-left: 900px;
+    margin-top: 40px;
+    
+}
+.consult{
+    font-size: 30px;
+    font-weight: 500;
+    margin-left: 400px;
+    margin-top: 150px;
+}
+.btn1{
+    font-size: 25px;
+    margin-left: 600px;
+    width: 120px;
+    height:70px;
+    background-color: white;
+}
+.btn1:hover{
+    color: tomato;
+    background-color: white;
+    border-radius:15px ;
+}
