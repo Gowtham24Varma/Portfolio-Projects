@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="./crud.css">
+    <!-- CSS only -->
+<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-Zenh87qX5JnK2Jl0vWa8Ck2rdkQ2Bzep5IDxbcnCeuOxjzrPF/et3URy9Bv1WTRi" crossorigin="anonymous">
+    <title>Employee-Data(Using CRUD operations)</title>
+</head>
+<body>
+<div class="container mt-5">
+<div class="text-center">
+<h1 class="display-5 mb-5"><strong>CRUD operations</strong></h1>
+</div>
+<div class="main row justify-content-center">
+<form action="" id="emp-row" class="row-justify-content-center mb-4" onsubmit="displayDetails()">
+  <div class="col-10 col-md-8 mb-3">
+<label for="fullname">Fullname</label>
+<input type="text" class="form-control" id="fullname" placeholder="enter your name">
+  </div>
+  <div class="col-10 col-md-8 mb-3">
+  <label for="empcode">EMP code</label>
+  <input type="text" class="form-control" id="empcode" placeholder="enter your code">
+  </div>
+  <div class="col-10 col-md-8 mb-3">
+  <label for="salary">Salary</label>
+  <input type="number" class="form-control" id="salary" placeholder="enter your salary">
+  </div>
+  <div class="col-10 col-md-8  mb-3">
+  <label for="city">City</label>
+  <input type="text" class="form-control" id="city" placeholder="enter your city">
+  </div>
+  <div>
+    <button type="submit" id="add" class="btn btn-success" >Submit</button>
+  </div>
+  <div class="col-12 col-md-8 mt-5">
+<table class="table table-striped table-dark" id="display">
+  <thead>
+    <tr>
+      <th>Fullname</th>
+      <th>EMPcode</th>
+      <th>Salary</th>
+      <th>City</th>
+      <th></th>
+    </tr>
+  </thead>
+  <tbody>
+  </tbody>
+</table>
+  </div>
+</form>
+</div>
+</div>
+<script src="./crud.js"></script>
+
+</body>
+</html>
